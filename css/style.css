@@ -69,3 +69,12 @@ img, video{
     right: 0;
     transform: translate(50%, -50%);
 }
+
+h1 {
+    font-size: min(60px, 5vw);
+    text-transform: uppercase;
+    margin: 0 0 20px;
+    font-weight: 900;
+    -webkit-text-stroke: 3px #000;
+    color: bisque;
+}
